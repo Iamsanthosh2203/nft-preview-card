@@ -5,7 +5,3 @@ body{
 .icon{
     background-color: hsla(178, 100%, 50%, 0.5);
 }
-
-body{
-    cursor:url("images/favicon-32x32.png"),auto;
-}
